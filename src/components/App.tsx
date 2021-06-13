@@ -1,9 +1,8 @@
 import React from 'react'
-import './App'
-import ContactsContainer from '../views/ContactsContainer'
+import Contacts from '../views/Contacts'
 
 const App = () => (
-    <ContactsContainer/>
+    <Contacts/>
 )
 
 export default App
